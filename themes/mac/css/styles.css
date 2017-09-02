@@ -15,3 +15,6 @@ padding: 6px 0;
 .field--name-field-presley-description {
 text-align: left;
 }
+.field--name-field-presley-image img {
+background: #FFF;
+}
